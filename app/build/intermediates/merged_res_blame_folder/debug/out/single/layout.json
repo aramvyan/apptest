@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "am.testapp-mergeDebugResources-51:/layout/media_list_recycler_item.xml",
+        "source": "am.testapp-main-54:/layout/media_list_recycler_item.xml"
+    },
+    {
+        "merged": "am.testapp-mergeDebugResources-51:/layout/fragment_media_picker.xml",
+        "source": "am.testapp-main-54:/layout/fragment_media_picker.xml"
+    },
+    {
+        "merged": "am.testapp-mergeDebugResources-51:/layout/fragment_success.xml",
+        "source": "am.testapp-main-54:/layout/fragment_success.xml"
+    },
+    {
+        "merged": "/Users/aram/.gradle/daemon/7.4/am.testapp-mergeDebugResources-51:/layout/media_list_recycler_item.xml",
+        "source": "/Users/aram/.gradle/daemon/7.4/am.testapp-main-54:/layout/media_list_recycler_item.xml"
+    },
+    {
+        "merged": "/Users/aram/.gradle/daemon/7.4/am.testapp-mergeDebugResources-51:/layout/fragment_select_media.xml",
+        "source": "/Users/aram/.gradle/daemon/7.4/am.testapp-main-54:/layout/fragment_select_media.xml"
+    },
+    {
+        "merged": "/Users/aram/.gradle/daemon/7.4/am.testapp-mergeDebugResources-51:/layout/fragment_media_picker.xml",
+        "source": "/Users/aram/.gradle/daemon/7.4/am.testapp-main-54:/layout/fragment_media_picker.xml"
+    },
+    {
+        "merged": "/Users/aram/.gradle/daemon/7.4/am.testapp-mergeDebugResources-51:/layout/activity_main.xml",
+        "source": "/Users/aram/.gradle/daemon/7.4/am.testapp-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/aram/.gradle/daemon/7.4/am.testapp-mergeDebugResources-51:/layout/fragment_success.xml",
+        "source": "/Users/aram/.gradle/daemon/7.4/am.testapp-main-54:/layout/fragment_success.xml"
+    },
+    {
+        "merged": "/Users/aram/.gradle/daemon/7.4/am.testapp-mergeDebugResources-51:/layout/layout_snack_bar.xml",
+        "source": "/Users/aram/.gradle/daemon/7.4/am.testapp-main-54:/layout/layout_snack_bar.xml"
+    },
+    {
+        "merged": "/Users/aram/.gradle/daemon/7.4/am.testapp-mergeDebugResources-51:/layout/fragment_media_list.xml",
+        "source": "/Users/aram/.gradle/daemon/7.4/am.testapp-main-54:/layout/fragment_media_list.xml"
+    }
+]

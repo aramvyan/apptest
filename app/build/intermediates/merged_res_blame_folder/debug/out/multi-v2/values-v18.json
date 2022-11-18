@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "am.testapp-mergeDebugResources-50:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/aram/.gradle/caches/transforms-3/316570e7c019b3046b12d56f108cf3f7/transformed/appcompat-1.5.1/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
